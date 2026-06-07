@@ -21,4 +21,4 @@ Sub goal 1: a movement system, A to B,  need a A and a B, a testing ground of so
 Sub goal 2: make it look good and package it into a short experience, 3 A to B fetch Quest, few short cutscene, a ending choice, a small narrative, personal narrative and world narrative.
 
 
-i don't like it
+I have the blender file for the character and other random stuff, i just don't know how to package them in a way that the texture and material ect work on other computer plug&play, and i don't think i was organized enough i made it harder for myself to provide a blender file package.
